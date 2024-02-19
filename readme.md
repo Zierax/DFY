@@ -1,6 +1,4 @@
 
-Certainly! Here's the content for the README.md file for the provided code:
-
 YouTube Video Downloader
 This Python script allows you to download MP4 videos from YouTube using the pytube library.
 
